@@ -4,4 +4,4 @@ public static Main {
 }
 }
 // 1st comment here placed here for further testing of jenkins, github/github desktop, vs studios
-// // Jenkins setup is next - more to follow after this
+// hard time with getting Jenkins setup 

@@ -4,4 +4,4 @@ public static Main {
 }
 }
 // 1st comment here placed here for further testing of jenkins, github/github desktop, vs studios
-// hard time with getting Jenkins up and running like the previous test
+// hard time with getting Jenkins up and running like the previous test - lets see 
